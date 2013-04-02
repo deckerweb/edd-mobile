@@ -13,6 +13,10 @@ A mobile app for Easy Digital Downloads
 
 Access Easy Digital Downloads sales data, on the go, from an iPhone or Android device.
 
+demo: http://demo.taptappress.com/edd-mobile
+
+demo video: http://http://modemlooper.me/edd-mobile
+
 
 == Installation ==
 
